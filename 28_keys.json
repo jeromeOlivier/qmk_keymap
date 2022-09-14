@@ -107,10 +107,10 @@
       "KC_NO"
     ],
     [
-      "KC_NO",
-      "KC_NO",
-      "KC_MINS",
-      "KC_EQL",
+      "KC_LCTL",
+      "KC_LALT",
+      "KC_LGUI",
+      "KC_LSFT",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -152,7 +152,7 @@
       "KC_NO",
       "KC_NO",
       "KC_TAB",
-      "KC_NO",
+      "KC_MINS",
       "KC_NO",
       "KC_NO"
     ],
