@@ -27,7 +27,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "RSFT_T(KC_T)",
+      "MT(KC_RSFT, KC_T)",
       "RGUI_T(KC_H)",
       "RALT_T(KC_O)",
       "RALT_T(KC_S)",
