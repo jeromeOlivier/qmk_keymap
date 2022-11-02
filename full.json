@@ -58,7 +58,7 @@
       "LCTL(KC_LEFT)",
       "LCTL(KC_RGHT)",
       "LCTL(KC_UP)",
-      "LT(3,KC_NO)",
+      "LT(3,RAG(KC_D))",
       "LT(2,KC_SPC)",
       "LT(1,KC_SPC)",
       "KC_CAPS",
