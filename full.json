@@ -62,8 +62,8 @@
       "LT(2,KC_SPC)",
       "LT(1,KC_SPC)",
       "MO(4)",
-      "KC_VOLU",
       "KC_VOLD",
+      "KC_VOLU",
       "KC_WH_U"
     ],
     [
@@ -122,8 +122,8 @@
       "KC_NO",
       "KC_TRNS",
       "KC_NO",
-      "KC_BRIU",
       "KC_BRID",
+      "KC_BRIU",
       "KC_ACL0"
     ],
     [
