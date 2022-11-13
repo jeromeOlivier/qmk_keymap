@@ -67,7 +67,7 @@
       "KC_WH_U"
     ],
     [
-      "KC_SYSTEM_SLEEP",
+      "ANY(KC_SYSTEM_SLEEP)",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -255,8 +255,8 @@
       "KC_NO",
       "KC_NO",
       "KC_NUM",
-      "KC_PAST",
       "KC_PSLS",
+      "KC_PAST",
       "KC_NO",
       "KC_BSPC",
       "KC_NO",
